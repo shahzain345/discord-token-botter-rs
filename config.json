@@ -1,0 +1,14 @@
+{
+    "proxy": {
+        "proxyless": false
+    },
+    "username": {
+        "username_from_file": false,
+        "username_prefix": "Shahzain345"
+    },
+    "captcha": {
+        "api": "anti-captcha.com",
+        "key": "7987254a8afa854d718b42cddb5fe62e"
+    },
+    "invite": "BB2euxbx"
+}
